@@ -1,1 +1,3 @@
 "# seminario10" 
+
+linea de ignacio
